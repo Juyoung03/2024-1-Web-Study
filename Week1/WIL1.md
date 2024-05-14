@@ -90,3 +90,11 @@ JSX 문법을 활용하여 자바스크립트 코드의 규모를 축소
 ### React에 대한 인정
 
 React를 사용하면서 선언적으로 컴포넌트를 작성할 수 있고 가상 DOM을 통해 DOM 조작을 효율적으로 할 수 있어 React를 점점 인정하기 시작
+
+
+## 3. 1주차 과제
+
+index.html, style.css파일을 생성하여 “GDSC Hongik!” 글자를 랜더링 하기
+
+![스크린샷 2024-05-14 164820](https://github.com/Juyoung03/2024-1-Web-Study/assets/161465764/c3944978-0f1a-4dec-b92a-d08919cf2eed)
+
