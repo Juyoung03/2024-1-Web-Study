@@ -1,0 +1,35 @@
+/* h1 {
+    color : blue;
+
+    position : absolute;
+    left : 50%;
+    transform: translateX(-50%);
+    cursor: pointer;
+}
+
+h2 {
+    position: relative;
+    top: 50%;
+    text-align: center;
+} */
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start; /* 위쪽에 배치 */
+    height: 100vh;
+    margin: 0;
+}
+
+h1 {
+    color: blue;
+    font-size : 30px;
+    margin-top: 20px; /* 위에서 약간의 간격 */
+    cursor: pointer;
+}
+
+h2 {
+    margin-top: 20px; /* h1과의 간격을 위해 마진 추가 */
+    text-align: center;
+}
