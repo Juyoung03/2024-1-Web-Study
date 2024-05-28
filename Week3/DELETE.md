@@ -1,0 +1,1 @@
+![delete.png](https://github.com/Juyoung03/2024-1-Web-Study/assets/161465764/e92d3fd0-d08a-4953-9223-d85f78f54e67)
